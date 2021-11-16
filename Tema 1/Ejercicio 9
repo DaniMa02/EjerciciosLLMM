@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h2 style="text-align:center;"> Encabezado h2 centrado</h2>
+<p style="text-align:center;">Primer párrafo con alineación centrada.</p>
+
+<h2 style="text-align:left;">Este es un encabezado con alineación a la izquierda, tambíen por defecto</h1>
+<p style="text-align:left;">Este texto está alineado a la izquierda.</p>
+
+<h2 style="text-align:right;">Encabezado alineado a la derecha</h1>
+<p style="text-align:right;">Parrafo alineado a la derecha.</p>
+
+</body>
+</html>
