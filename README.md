@@ -18,7 +18,7 @@
 
 <A HREF="https://github.com/DaniMa02/EjerciciosLLMM/blob/main/Tema%201/Ejercicio%209"> Ejercicio 9 <A/>                    Ejercicio 9 LLMM
   
-<A HREF=""> <A/>
+<A HREF="https://github.com/DaniMa02/EjerciciosLLMM/blob/main/Tema%201/Ejercicio%2010"> Ejercicio 10 <A/>                  Ejercicio 10 LLMM
   
 <A HREF=""> <A/>
   
