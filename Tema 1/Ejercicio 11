@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h2 style="background-color:blue;">
+<h2 style="text-align:center;font-family:verdana;background-color:blue;color:white;"> Encabezado h2 centrado fuente verdana</h2>
+<p1 style="text-align:center;font-family:arial;background-color:purple;color:yellow;">Primer párrafo con alineación centrada y fuente arial (por defecto).</p1>
+
+<h2 style="text-align:left;font-family:Helvetica;background-color:red;">Este es un encabezado con alineación a la izquierda, tambíen por defecto y tipo de fuente helvetica</h1>
+<p2 style="text-align:left;font-family:Tahoma;background-color:grey;">Este texto está alineado a la izquierda y su fuente es tahoma.</p2>
+
+<h2 style="text-align:right;font-family:Trebuchet MS;background-color:green;">Encabezado alineado a la derecha, fuente trebuchet ms</h1>
+<p3 style="text-align:right;font-family:georgia;background-color:black;color:white;">Parrafo alineado a la derecha, fuente georgia.</p3>
+
+</body>
+</html>
